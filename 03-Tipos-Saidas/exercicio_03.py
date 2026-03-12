@@ -1,7 +1,7 @@
 nome = 'João'
 nota = 10
 print (('A nota de %s foi %s') %(nome, nota))                             #variáveis informadas em TUPLA (explicitadas posteriormente)
-nome = 'José Maria'
+nome = 'José Maria'                                                       #TUPLA = coleção de valores 
 print (('A nota de %s foi %s') %(nome, nota))
 nome = 'Carlos'
 nota = 7
